@@ -11,6 +11,6 @@
 2. 打开bootsrtap中的login.html即可注册登录  
 3. 注意bootstrap文件存放位置，因为一些html文件之间跳转用的绝对路径
 4. 建议bootstrap文件夹直接放在D盘  
-
+* 文件有点大，主要是bootstrap框架，以后也可以免费使用
 * 有问题直接1321252278@qq.com  别忘了加个start
 
